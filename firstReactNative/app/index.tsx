@@ -13,7 +13,7 @@ export default function Login() {
   return (
     <View style={styles.container}>
       <Text>Login</Text>
-
+      <Text>  </Text>
       <Image source={{ uri: 'https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png' }}
       style={styles.image} />
 
